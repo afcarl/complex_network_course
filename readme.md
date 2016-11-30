@@ -8,4 +8,4 @@ Homework 4: Implementation of Several Influence Maximization Algorithm, containi
  * CELF (see http://www.cs.cmu.edu/~jure/pubs/detect-kdd07.pdf)
  * Greedy algorithm
  * Degree
- * Ramdom
+ * Random
